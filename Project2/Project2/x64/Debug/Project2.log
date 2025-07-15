@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\Owner\Desktop\basic\Project2\Project2\FileName.c(160,1): error C2059: 구문 오류: 'for'
+C:\Users\Owner\Desktop\basic\Project2\Project2\FileName.c(160,19): error C2143: 구문 오류: '{'이(가) '<' 앞에 없습니다.
+C:\Users\Owner\Desktop\basic\Project2\Project2\FileName.c(160,19): error C2059: 구문 오류: '<'
+C:\Users\Owner\Desktop\basic\Project2\Project2\FileName.c(160,25): error C2143: 구문 오류: '{'이(가) '++' 앞에 없습니다.
+C:\Users\Owner\Desktop\basic\Project2\Project2\FileName.c(160,25): error C2059: 구문 오류: '++'
+C:\Users\Owner\Desktop\basic\Project2\Project2\FileName.c(160,27): error C2059: 구문 오류: ')'
